@@ -1037,16 +1037,13 @@ position: fixed;
          	background-color: #fff;
          	display: inline-block;
          	width: 245px;
+			height: 140px;
          	margin: 0 0 0 -4px;
          	padding: 0 16px 12px;
          	vertical-align: top;
-         	-webkit-border-bottom-left-radius: 6px;
          	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.33);
          	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.33);
          	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.33);
-         	-moz-border-radius-bottomleft: 6px;
-         	-webkit-border-bottom-left-radius: 6px;
-         	border-bottom-left-radius: 6px;
          }
          #instant-callback-div h4 {
          	border-bottom: 1px solid #EDEDED;
